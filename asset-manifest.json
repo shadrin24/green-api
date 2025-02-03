@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/green-apigit%20/static/css/main.f855e6bc.css",
+    "main.js": "/green-apigit%20/static/js/main.76b79dbd.js",
+    "static/js/453.1026f103.chunk.js": "/green-apigit%20/static/js/453.1026f103.chunk.js",
+    "static/media/logo.svg": "/green-apigit%20/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/green-apigit%20/index.html",
+    "main.f855e6bc.css.map": "/green-apigit%20/static/css/main.f855e6bc.css.map",
+    "main.76b79dbd.js.map": "/green-apigit%20/static/js/main.76b79dbd.js.map",
+    "453.1026f103.chunk.js.map": "/green-apigit%20/static/js/453.1026f103.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.76b79dbd.js"
+  ]
+}
